@@ -9,5 +9,9 @@
   "author": "",
   "license": "ISC",
   "description": ""
+    "lodash": "^4.17.21",
+    "uuid": "^10.0.0"
+    "@types/lodash": "^4.17.10",
+    "@types/uuid": "^10.0.0",
     "typescript": "^5.6.3",
 }
