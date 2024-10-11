@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "class-validator": "^0.14.1",
+    "eventemitter2": "^6.4.9",
     "lodash": "^4.17.21",
     "uuid": "^10.0.0"
   },
